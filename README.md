@@ -6,10 +6,10 @@ A full-featured **Twitter (X) Clone** built using the **MERN stack (MongoDB, Exp
 
 ---
 
-![License](https://img.shields.io/github/license/kagan-dev/Twitter-clone?style=flat-square)
-![Stars](https://img.shields.io/github/stars/kagan-dev/Twitter-clone?style=social)
-![Issues](https://img.shields.io/github/issues/kagan-dev/Twitter-clone)
-![Last Commit](https://img.shields.io/github/last-commit/kagan-dev/Twitter-clone)
+![License](https://img.shields.io/github/license/kgnio/Twitter-clone?style=flat-square)
+![Stars](https://img.shields.io/github/stars/kgnio/Twitter-clone?style=social)
+![Issues](https://img.shields.io/github/issues/kgnio/Twitter-clone)
+![Last Commit](https://img.shields.io/github/last-commit/kgnio/Twitter-clone)
 
 ---
 
@@ -131,5 +131,5 @@ Licensed under the [MIT License](./LICENSE).
 ---
 
 ## 📬 Contact
-**Project Maintainer**: [@kagan-dev](https://github.com/kagan-dev)  
+**Project Maintainer**: [@kgnio](https://github.com/kgnio)  
 DMs and collabs are welcome!
